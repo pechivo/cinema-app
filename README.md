@@ -68,6 +68,10 @@ authentication, respectively.
 - Java Servlets 4.0.1 version
 - Apache Tomcat 9.0.73 version
 
+
+#### Have a nice cinema app experience 🎥
+
 <br>
 
-#### Have a nice cinema app experience 🎥 
+#### Author: Alona Klishchenko
+[My LinkedIn](https://www.linkedin.com/in/alona-klishchenko-78322b73/)
